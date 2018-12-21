@@ -1,13 +1,13 @@
 # Flutter BottomNavigation Example
 
-This is a bottom navigation tutorial. We see how to render gridviews with different datasets
+This is a bottom navigation tutorial. We see how to render [gridviews](/flutter/gridview) with different datasets
 when the bottom navigation items are clicked.
 
 
 
 #### Full Tutorial
 
-We have a website and YouTube channel. View the full tutorial in them and more tutorials
+We have a [website](https://camposha.info) and [YouTube channel](http://www.youtube.com/c/programmingwizards). View the full tutorial in them and more tutorials
 like this.
 
 |No.|Location|Link|
