@@ -5,7 +5,7 @@ when the bottom navigation items are clicked.
 
 #### Demo
 
-Here is the demo:
+Here is the demo of the project:
 
 ![Flutter BottomNavigationBar with GridViews](/demo/demo1.gif)
 
@@ -17,5 +17,5 @@ like this.
 |No.|Location|Link|
 |---|--------|---------|
 |1.|Camposha|[View Full Tutorial](https://camposha.info/flutter/bottomnavigationbar)|
-|2.|YouTube |[Video Tutorial](https://www.youtube.com/watch?v=4v8Y8mPLmQc) |
-|3.|YouTube |[ProgrammingWizards TV Channel](http://www.youtube.com/c/programmingwizards) |
+|2.|YouTube |[Watch Video Tutorial](https://www.youtube.com/watch?v=4v8Y8mPLmQc) |
+|3.|YouTube |[Subscribe to ProgrammingWizards TV Channel](http://www.youtube.com/c/programmingwizards) |
