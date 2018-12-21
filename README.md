@@ -14,7 +14,8 @@ like this.
 |---|--------|---------|
 |1.|Camposha|[View Full Tutorial](https://camposha.info/flutter/bottomnavigationbar)|
 |2.|YouTube |[Watch Video Tutorial](https://www.youtube.com/watch?v=4v8Y8mPLmQc) |
-|3.|YouTube |[Subscribe to ProgrammingWizards TV Channel](http://www.youtube.com/c/programmingwizards) |
+|3.|YouTube |[Subscribe to ProgrammingWizards TV Channel](https://www.youtube.com/c/programmingwizards) |
+|4.|Camposha |[View more Flutter Tutorials](https://camposha.info/flutter) |
 
 #### Demo
 
